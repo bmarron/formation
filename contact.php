@@ -18,7 +18,7 @@
 		</p>
 		<p>
 			<button type="submit">
-				Envoyer
+				Envoyer !
 			</button>
 		</p>
 	</form>
