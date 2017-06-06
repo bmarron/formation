@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 <head>
+<meta keyword="formation, git, dawan" />
 </head>
 <body>
 	<form method="post" action="send_contact.php">
