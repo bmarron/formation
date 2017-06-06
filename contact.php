@@ -1,9 +1,10 @@
 <!doctype html>
 <html>
 <head>
+<meta keyword="conflit,fusion"/>
 </head>
 <body>
-	<form method="post" action="send_contact.php">
+	<form method="get" action="send_contact.php">
 		<p>
 			<label for="email">
 				Email
