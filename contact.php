@@ -1,6 +1,12 @@
+
 <!doctype html>
 <html>
 <head>
+<style>
+.toto {
+ color:red;
+}
+</style>
 </head>
 <body>
 	<form method="post" action="send_contact.php">
