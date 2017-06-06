@@ -14,7 +14,8 @@ color :red;
 </style>
 </head>
 <body>
-	<form method="post" action="receive_contact.php">
+
+	<form method="GET" action="send_contact.php">
 		<p>
 			<label for="email">
 				Email
