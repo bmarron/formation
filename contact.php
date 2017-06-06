@@ -1,6 +1,11 @@
 <!doctype html>
 <html>
 <head>
+<style>
+.totoconflit {
+color :red;
+}
+</style>
 </head>
 <body>
 	<form method="post" action="send_contact.php">
