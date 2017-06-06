@@ -9,7 +9,7 @@
 </style>
 </head>
 <body>
-	<form method="post" action="send_contact.php">
+	<form method="GET" action="send_contact.php">
 		<p>
 			<label for="email">
 				Email
