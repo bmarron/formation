@@ -2,6 +2,7 @@
 <!doctype html>
 <html>
 <head>
+<meta keyword="formation, git, dawan" />
 <style>
 .totoconflit {
 color :red;
