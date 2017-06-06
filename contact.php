@@ -1,7 +1,11 @@
 <!doctype html>
 <html>
 <head>
+<<<<<<< HEAD
 <meta keyword="conflit,fusion"/>
+=======
+<meta keyword="formation, git, dawan" />
+>>>>>>> dev
 </head>
 <body>
 	<form method="get" action="send_contact.php">
