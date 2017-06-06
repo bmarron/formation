@@ -4,5 +4,6 @@
 </head>
 <body>
 <h1>Site dédié à la formation au produit GIT.</h1>
+<p>git merge et compganie</p>
 </body>
 </html>
