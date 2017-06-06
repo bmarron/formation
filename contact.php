@@ -1,9 +1,15 @@
+
 <!doctype html>
 <html>
 <head>
 <style>
 .totoconflit {
 color :red;
+}
+</style>
+<style>
+.toto {
+ color:red;
 }
 </style>
 </head>
