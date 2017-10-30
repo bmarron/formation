@@ -31,7 +31,7 @@ color :red;
 		</p>
 		<p>
 			<button type="submit">
-				Envoyer !
+				Soumettre
 			</button>
 		</p>
 	</form>
