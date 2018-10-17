@@ -9,5 +9,6 @@ Page d'accueil pour traiter la us54 encore une modification
 <a href="list.php">Liste des stagiaires</a><br/>
 <a href="edit.php">Edition d'un stagiaire</a><br/>
 <p>Ceci concerne les stagiaires</p>
+<footer>Le pied :-)</footer>
 </body>
 </html>
