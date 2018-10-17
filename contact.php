@@ -35,5 +35,6 @@ color :red;
 			</button>
 		</p>
 	</form>
+<footer>Le pied :-)</footer>
 </body>
 </html>

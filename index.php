@@ -10,5 +10,6 @@ Correction du méchant bug
 <a href="list.php">Liste des stagiaires</a><br/>
 <a href="edit.php">Edition d'un stagiaire</a><br/>
 <p>Ceci concerne les stagiaires</p>
+<footer>Le pied :-)</footer>
 </body>
 </html>
