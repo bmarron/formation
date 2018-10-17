@@ -4,5 +4,6 @@
 <?php
 echo "Liste des stagiaires" ;
 ?>
+<footer>Le pied :-)</footer>
 </body>
 </html>
