@@ -5,11 +5,13 @@
 <body>
 Page d'accueil pour traiter la us54 à la recherche
 test conflit
-Page d'accueil pour traiter la us54 encore une modification<br/>
-Correction du méchant bug
+Page d'accueil pour traiter la us54 encore une modification
+Correction bug 745
 <a href="list.php">Liste des stagiaires</a><br/>
-<a href="edit.php">Edition d'un stagiaire</a><br/>
-<p>Ceci concerne les stagiaires</p>
-<footer>Le pied :-)</footer>
+<a href="edit.php">Edition d'un stagiaire</a>
+<footer>
+<hr/>
+&copy; Dawan 2014-2018
+</footer>
 </body>
 </html>
