@@ -1,2 +1,3 @@
 test de création de fichier
 Hello c'est un essai !!
+juste pour tester le bug_fix
